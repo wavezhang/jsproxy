@@ -14,6 +14,7 @@ jsproxy_config({
       label: '当前站点',
       lines: {
         'ss.samblade.top:8443': 1,
+        'proxy.samblade.workers.dev': 1,
       }
     },
     // 该节点用于加载大体积的静态资源
